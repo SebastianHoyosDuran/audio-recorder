@@ -61,5 +61,5 @@ Employs the scipy.io.wavfile library for seamless WAV file creation.
 
 Contributors names and contact info
 
-ex. Sebastian Hoyos
-ex. [@SebastianHoyosDuran](https://co.linkedin.com/in/sebastianhoyosduran)
+Sebastian Hoyos
+[@SebastianHoyosDuran](https://co.linkedin.com/in/sebastianhoyosduran)
